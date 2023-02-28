@@ -1,11 +1,11 @@
-React Redux application with Webpack
+# Todo List application using React, Redux Core and Webpack
 
-In the project directory, you can install dependencies using:
+## In the project directory, you can install dependencies using:
 
 ### `npm install`
 
 
-Run the app in the development mode
+## Run the app in the development mode
 
 ### `npm run dev`
 
